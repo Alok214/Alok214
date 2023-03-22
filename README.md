@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alok Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img alt="Coding" width="400" align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fhacktiv8-code-programming-programmer-lP8xu5t2DLGG045H8F&psig=AOvVaw1qGzLbSguDMu08VmgkUDLN&ust=1679586702926000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNDakJny7_0CFQAAAAAdAAAAABAF" >
+<img alt="Coding" width="400" align="right" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alok214&label=Profile%20views&color=0e75b6&style=flat" alt="alok214" /> </p>
 
 - 📫 How to reach me **alokkumar11302@gmail.com**

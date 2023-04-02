@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alok Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 <img alt="Coding" width="375" align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alok214&label=Profile%20views&color=0e75b6&style=flat" alt="alok214" /> </p>
 

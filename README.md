@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alok Kumar</h1>
-<h3 align="center">"Hello! Hello! I am a full-stack software developer at Crest Data Systems in Ahmedabad, graduated from IIIT Surat. I have a keen interest in full-stack develoment, competitive programming, web 2.0 and machine learning. I am passionate about using my skills to solve real-world problems and create impactful solutions. With a strong foundation in these areas, I am always looking for opportunities to learn and grow. Let's collaborate and build something amazing!"</h3>
+<h3 align="center">"Hello! I am a full-stack software developer at Crest Data Systems in Ahmedabad, graduated from IIIT Surat. I have a keen interest in full-stack develoment, DSA , AI and machine learning. I am passionate about using my skills to solve real-world problems and create impactful solutions. With a strong foundation in these areas, I am always looking for opportunities to learn and grow. Let's collaborate and build something amazing!"</h3>
 <img alt="Coding" width="375" align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alok214&label=Profile%20views&color=0e75b6&style=flat" alt="alok214" /> </p>
 
